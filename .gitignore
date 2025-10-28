@@ -1,0 +1,14 @@
+# Ignore compiled files and build outputs
+build/
+*.exe
+*.out
+*.obj
+
+# Ignore temporary or backup files
+*.log
+*.tmp
+*.bak
+
+# Ignore system files (Windows & macOS)
+.DS_Store
+Thumbs.db
