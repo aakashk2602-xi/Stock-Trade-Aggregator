@@ -44,6 +44,8 @@ g++ -std=c++17 -Wall -Iinclude -o build/stock_report src/stock_report.cpp
 #Run with redirected input and output
 ./build/stock_report < data/stock_trades.txt > data/stock_output.txt
 
+#THEN TO DISPLAY stock_output.txt
+cat data/stock_output.txt
 
 _____________________________________________________________________________________________________
 
