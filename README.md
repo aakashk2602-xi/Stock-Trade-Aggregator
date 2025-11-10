@@ -5,7 +5,7 @@ inspired by the bookstore problem in C++ Primer.
 
 ---
 
-## 🧠 Description
+Description
 This program reads multiple stock trade transactions from a text file (`data/stock_trades.txt`) and aggregates:
 - Total shares traded per stock symbol  
 - Total revenue  
