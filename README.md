@@ -32,7 +32,7 @@ It demonstrates practical C++17 concepts such as:
 │
 ├── .gitignore                     # Files/folders excluded from Git tracking (like build/)
 ├── README.md                      # Project overview and documentation
-└── LICENSE (optional)             # License file (MIT recommended for open-source)
+└── LICENSE                        #License file (MIT recommended by chatgpt for open source)
 
 _____________________________________________________________________________________________________
 
